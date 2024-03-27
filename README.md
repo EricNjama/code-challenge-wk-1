@@ -132,15 +132,15 @@ console.log(tax(basicSalary));
 You need to have access to a github account inorder to be able to **fork** and **clone** this into your local repository.
 ### Installation instruction
 Once you've copied the **SSH** key in github, open your terminal and `git clone` it into your local repo
-git clone https://github.com/EricNjama/code-challenge-wk-1
+**git clone https://github.com/EricNjama/code-challenge-wk-1**
 
 You will then use `code .` to open the files in VScode.
 After all that, you are noow able to use the code as intended (or whatever you want idk haha).
 ### Technologies used 
 Javascript
 ### Support and contact details
-github.com/EricNjama
-eric.njama@student.moringaschool.com
+**github.com/EricNjama**
+**eric.njama@student.moringaschool.com**
 ### License 
 The content of this site is licensed under the MIT license
 
