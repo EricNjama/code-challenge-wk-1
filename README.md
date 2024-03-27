@@ -43,7 +43,7 @@ If this condition is not satisfied, it is ran through further code where points 
     }
 }
 ``` 
-## salaryCalculator.js
+## 3.salaryCalculator.js
 This is a programme that is designed to come up with the users net salary after various deductions are made. The deductions include NSSF deductions, NHIF deductions and PAYE. 
 The user is first prompted to input their basic salary.
 ```js
