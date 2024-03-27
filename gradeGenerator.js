@@ -1,9 +1,9 @@
 // The user is prompted to input marks
 const prompt = require("prompt-sync")({ sigint: true });
-const marks = parseFloat(prompt("Enter your marks:"));
+const marks = parseFloat(prompt("Enter your marks(out of 100):"));
 
 // Convert the marks into a grade
-if (marks >79){
+if (marks >79 && marks <= 100){
     console.log("A")
 } else if (marks >=60 && marks <=79){
     console.log("B")
